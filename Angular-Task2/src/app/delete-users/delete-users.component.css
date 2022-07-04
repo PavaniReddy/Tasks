@@ -1,0 +1,20 @@
+.main-list {
+    width: 100%;
+    display: flex;
+}
+
+.btn {
+    width: 50%;
+    margin-left: auto;
+}
+.active {
+    display: none;
+}
+
+.inact {
+    position: relative;
+    width: 80vw;
+    padding: 10px;
+    border: 1px solid red;
+    margin-top: 1%;
+}
